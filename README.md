@@ -10,7 +10,7 @@
 <br/>
 
  ### About Me
-<img style='margin-top:30px' src="https://github-readme-stats.vercel.app/api?username=AbdullahOztuurkk&show_icons=true">
+<img style='margin-top:30px' src="https://github-readme-stats.vercel.app/api?username=aysegulkuzucu&show_icons=true">
 
 <!--
 LINKS
