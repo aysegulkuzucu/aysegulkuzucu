@@ -2,7 +2,7 @@
 
 ### Contact with me
 [<img align="center" alt="LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
-[<img align="left" alt="YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg" />][youtube]
+[<img align="left" alt="YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />][youtube]
 [<img align="left" alt="Gmail" width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg">][email]
 
 
