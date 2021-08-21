@@ -8,14 +8,21 @@
 ### Languages and Tools 
 <p align="left">
     <img align="left" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" />
+    <img align="left" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
+    <img align="left" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
     <img align="left" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" />
-    <img align="left" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
-    <img align="left" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" />
-    <img align="left" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
+    <img align="left" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
     <img align="left" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
-    <img align="left" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
-    <img align="left" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
-    <img align="left" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" />
+    <img align="left" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" />
+    <img align="left" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" />
+    <img align="left" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" />
+    <img align="left" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" />
+    <img align="left" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" />
+    <img align="left" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" />
+    <img align="left" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" />
+    <img align="left" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-plain.svg" />
+
+
 </p>
 
 
